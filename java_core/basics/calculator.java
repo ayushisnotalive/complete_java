@@ -6,7 +6,7 @@ class Calculator{
         System.out.println("something's up");
         return a+b+c;
     };
-    public int add(int n1, int n2){
+    public double add(double n1, int n2){
         System.out.println("nothing");
         return n1+n2;
     };
