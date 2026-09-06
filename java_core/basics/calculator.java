@@ -25,7 +25,7 @@ public class calculator
             Calculator calc = new Calculator();
 
             int result = calc.add(a,b,c);
-            int result1 = calc.add(c, result);
+           double result1 = calc.add(c, result);
             System.out.println(result);
             System.out.println("hola mf");
             System.out.println(result1);
