@@ -1,8 +1,6 @@
 package basics;
 
 class Calculator{
-    int a;
-    int b;
 
     public int add(int a,int b, int c){
         System.out.println("something's up");
