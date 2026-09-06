@@ -7,12 +7,12 @@ class Calculator{
     public int add(int a,int b, int c){
         System.out.println("something's up");
         return a+b+c;
-    }
+    };
     public int add1(int n1, int n2){
         System.out.println("nothing");
         return n1+n2;
-    }
-}
+    };
+};
 
 public class calculator
 {
@@ -33,6 +33,6 @@ public class calculator
             System.out.println(result1);
 
     
-    }
-}
+    };
+};
 
